@@ -1,0 +1,5 @@
+node_modules
+.docz
+.storybook
+dist
+storybook-static
